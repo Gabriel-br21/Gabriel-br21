@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 # Gabriel B. :man_technologist:
 
-##Bem-vindo à minha página GitHub
+<h3> Bem-vindo à minha página GitHub </h3>
 
-*### Informações : 
+<h3> Informações: </h3>
 
-  
+   <li> Estudante de Engenharia de Computação </li>
+   <li> Aprendendo a programar em Python </li>
