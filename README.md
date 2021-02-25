@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Gabriel-br21/Gabriel-br21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Gabriel B. :man_technologist:
+
+##Bem-vindo à minha página GitHub
+
+*### Informações : 
+
+  
